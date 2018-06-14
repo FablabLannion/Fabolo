@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="200"
+   viewBox="0 0 500 200.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="4. Calculs hauteurs pyramide et face initiales.svg"
+   inkscape:export-filename="/media/Stockage/Projets/Pyramide à Pepper's Ghost/tuto/4. Calculs hauteurs pyramide et face initiales.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4292">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4294" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4296" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4292"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4292"
+       id="linearGradient4298"
+       x1="-1009.33"
+       y1="192.28842"
+       x2="-909.34075"
+       y2="192.28842"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="203.46287"
+     inkscape:cy="94.010891"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     height="296mm"
+     units="px"
+     inkscape:window-width="1843"
+     inkscape:window-height="1056"
+     inkscape:window-x="77"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4182" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-852.36216)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 329.99998,972.36216 -85,0"
+       id="path4191"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000006,1.00000006;stroke-dashoffset:0"
+       d="m 244.99998,972.36216 -50,30.00004"
+       id="path4193"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffc100;stroke-width:2.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 264.99998,932.36216 -39.5,52"
+       id="path4197"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ff00bb;fill-opacity:1;fill-rule:evenodd;stroke:#ff00bb;stroke-width:1.52453065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 225.88603,984.3605 0,-52.00386"
+       id="path4157"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0800;stroke-width:2.00000024;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4172"
+       sodipodi:type="arc"
+       sodipodi:cx="265.56528"
+       sodipodi:cy="931.85608"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       sodipodi:start="2.1994384"
+       sodipodi:end="3.1742215"
+       d="m 253.80434,948.03261 a 20,20 0 0 1 -8.22842,-16.82899"
+       inkscape:transform-center-x="20.505011"
+       inkscape:transform-center-y="21.868682"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 265.74998,932.36216 -70,70.00004"
+       id="path4158"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffc100;fill-opacity:1;stroke:#ffc100;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-545.19165"
+       y="874.09906"
+       id="text4180"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.70248334,-0.71170018,0.71170018,0.70248334,0,0)"
+       inkscape:transform-center-x="-2.2480676"
+       inkscape:transform-center-y="11.7118"><tspan
+         sodipodi:role="line"
+         id="tspan4182"
+         x="-545.19165"
+         y="874.09906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffc100;fill-opacity:1;stroke:#ffc100;stroke-opacity:1">hauteur face</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 265.74998,932.36216 15,70.00004 50.00002,-30.00004"
+       id="path4154"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 195.74998,1002.3622 85,0"
+       id="path4156"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 330.74998,972.36216 -65,-40"
+       id="path4160"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#9b00ff;fill-opacity:1;stroke:#9b00ff;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="196.98653"
+       y="908.26599"
+       id="text4150"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4152"
+         x="196.98653"
+         y="908.26599"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#9b00ff;fill-opacity:1;stroke:#9b00ff;stroke-width:1.00000012;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">hauteur écran / 2</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 225.49998,932.11216 0,-20"
+       id="path4155"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0800;fill-opacity:1;stroke:#ff0800;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="231.76775"
+       y="946.25128"
+       id="text4176"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4178"
+         x="231.76775"
+         y="946.25128"
+         style="font-size:12.50000095px;stroke:#ff0800;stroke-opacity:1;fill:#ff0800;fill-opacity:1;">α</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.70709"
+       y="1021.9584"
+       id="text4184"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="145.70709"
+         y="1021.9584"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4306">hauteur face = (hauteur écran / 2) / cos(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+   id="tspan4188">α</tspan>)</tspan><tspan
+         sodipodi:role="line"
+         x="145.70709"
+         y="1038.1788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4312">haut.  pyram. = (hauteur écran / 2) x tan(<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Sans"
+   id="tspan4168">α</tspan>)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0"
+       d="m 264.99998,932.36216 0,-20"
+       id="path4209"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff00bb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 226.807,932.81481 4.99994,0.0251 -0.0251,4.99984 -4.99994,-0.025"
+       id="path4255-5"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#9b00ff;stroke-width:1.52023411;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 225.00978,931.83703 78,0"
+       id="path4202"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00bb;fill-opacity:1;stroke:#ff00bb;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1002.1094"
+       y="184.77823"
+       id="text4288"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.00272253,-0.99999629,0.99999629,0.00272253,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4290"
+         x="-1002.1094"
+         y="184.77823"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50000095px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff00bb;fill-opacity:1;stroke:#ff00bb;stroke-opacity:1">haut. pyramide</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.00000006,1.00000006;stroke-dashoffset:0"
+       d="m 244.99998,972.36216 20,-40"
+       id="path4195"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0"
+       d="m 224.74998,983.61216 -35,0"
+       id="path4203"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0"
+       d="m 224.99998,932.36216 -35,0"
+       id="path4205"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0"
+       d="m 264.99998,932.36216 12,12.5"
+       id="path4207"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:0.25,0.25;stroke-dashoffset:0"
+       d="m 226.24998,984.36216 6,5.25"
+       id="path4210"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
